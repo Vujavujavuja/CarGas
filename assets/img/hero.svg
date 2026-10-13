@@ -25,9 +25,9 @@
 
   <!-- wind turbines on the Banat horizon -->
   <g stroke="#0b1f36" stroke-linecap="round" opacity=".75">
-    <g transform="translate(140 300)"><line x1="0" y1="0" x2="0" y2="200" stroke-width="5"/><g class="blade"><line x1="0" y1="0" x2="0" y2="-62" stroke-width="4"/><line x1="0" y1="0" x2="54" y2="31" stroke-width="4"/><line x1="0" y1="0" x2="-54" y2="31" stroke-width="4"/></g></g>
-    <g transform="translate(270 340) scale(.75)"><line x1="0" y1="0" x2="0" y2="215" stroke-width="5"/><g class="blade slow"><line x1="0" y1="0" x2="0" y2="-62" stroke-width="4"/><line x1="0" y1="0" x2="54" y2="31" stroke-width="4"/><line x1="0" y1="0" x2="-54" y2="31" stroke-width="4"/></g></g>
-    <g transform="translate(1080 320) scale(.85)"><line x1="0" y1="0" x2="0" y2="210" stroke-width="5"/><g class="blade"><line x1="0" y1="0" x2="0" y2="-62" stroke-width="4"/><line x1="0" y1="0" x2="54" y2="31" stroke-width="4"/><line x1="0" y1="0" x2="-54" y2="31" stroke-width="4"/></g></g>
+    <g transform="translate(140 300)"><line x1="0" y1="0" x2="0" y2="200" stroke-width="5"/><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/><line x1="0" y1="0" x2="0" y2="-62" stroke-width="4"/><line x1="0" y1="0" x2="54" y2="31" stroke-width="4"/><line x1="0" y1="0" x2="-54" y2="31" stroke-width="4"/></g></g>
+    <g transform="translate(270 340) scale(.75)"><line x1="0" y1="0" x2="0" y2="215" stroke-width="5"/><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/><line x1="0" y1="0" x2="0" y2="-62" stroke-width="4"/><line x1="0" y1="0" x2="54" y2="31" stroke-width="4"/><line x1="0" y1="0" x2="-54" y2="31" stroke-width="4"/></g></g>
+    <g transform="translate(1080 320) scale(.85)"><line x1="0" y1="0" x2="0" y2="210" stroke-width="5"/><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/><line x1="0" y1="0" x2="0" y2="-62" stroke-width="4"/><line x1="0" y1="0" x2="54" y2="31" stroke-width="4"/><line x1="0" y1="0" x2="-54" y2="31" stroke-width="4"/></g></g>
   </g>
 
   <!-- flat plain -->
