@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cargas.rs/sitemap.xml
