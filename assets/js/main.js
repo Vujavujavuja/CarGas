@@ -14,7 +14,6 @@
     'nav.locations': 'Locations',
     'cta.directions': 'Get directions',
     'cta.delivery': 'Fuel delivery',
-    'hero.status': 'Open 24/7 · Nemanjina BB, Banatski Karlovac',
     'hero.title': 'Fuel quality you can count on for&nbsp;20&nbsp;years.',
     'hero.lead': 'A filling station on the E-70 main road — 60 km from Belgrade, 25 km from Vršac. Euro diesel, ADI diesel, unleaded 95, LPG and CNG, every day 0–24.',
     'wall.title': 'At the Car Gas station we offer',
